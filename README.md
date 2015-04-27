@@ -10,6 +10,11 @@ MVVM is [one of the preferred](https://msdn.microsoft.com/en-us/magazine/dd41966
 
 # Project Topics
 1. Dialogs
+2. Flyouts
+ 
+# MVVM Frameworks
+1. MVVM Light
+2. Caliburn.Micro
 
 # Contributing to the Project
 
